@@ -3,7 +3,7 @@ import './App.css'
 export default function App() {
   return (
     <main>
-      React ⚛️ + Vit ⚡ + Replit
+      React ⚛️ + Vit ⚡  Replit
     </main>
   )
 }
